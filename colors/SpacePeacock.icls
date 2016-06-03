@@ -998,6 +998,11 @@
         <option name="FOREGROUND" value="26a6a6" />
       </value>
     </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="a26e02" />
+      </value>
+    </option>
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="dee3ec" />
