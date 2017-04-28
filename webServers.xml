@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="47741114-8c14-43a2-bb3a-11fe87f8d07b" name="lamoda bidev ftp" url="http://lamoda.bidev.pl">
+        <fileTransfer host="lamoda.bidev.pl" port="21" rootFolder="/lamoda.bidev.pl" username="www-data">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
