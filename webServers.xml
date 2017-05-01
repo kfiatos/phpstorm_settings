@@ -1,10 +1,10 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="9e836d45-1b87-46c7-9004-8fa84bdf3418" name="booking ftp" url="http://panel.depilacja.pl">
-        <fileTransfer host="panel.depilacja.pl" port="21" accessType="FTPS">
+      <webServer id="9e836d45-1b87-46c7-9004-8fa84bdf3418" name="booking ftp" url="http://92.222.70.123">
+        <fileTransfer host="92.222.70.123" port="21" rootFolder="/localhost/bookings.depilacja.pl" accessType="FTPS">
           <advancedOptions>
-            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" />
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
