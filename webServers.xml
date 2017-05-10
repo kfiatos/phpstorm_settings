@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="51b74abc-b698-4630-a7c2-becf9982baff" name="panel.depilacja.pl" url="http://panel.depilacja.pl">
+        <fileTransfer host="panel.depilacja.pl" port="21" rootFolder="/localhost/panel.depilacja.pl" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
