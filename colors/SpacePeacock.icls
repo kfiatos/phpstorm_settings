@@ -1,7 +1,7 @@
 <scheme name="SpacePeacock" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
     <option name="EDITOR_FONT_SIZE" value="16" />
@@ -981,6 +981,16 @@
         <option name="FOREGROUND" value="26a6a6" />
       </value>
     </option>
+    <option name="PHP_CLASS">
+      <value>
+        <option name="FOREGROUND" value="ff5d38" />
+      </value>
+    </option>
+    <option name="PHP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
     <option name="PHP_CONSTANT">
       <value>
         <option name="FOREGROUND" value="ff5d38" />
@@ -1018,13 +1028,22 @@
         <option name="FOREGROUND" value="ff5d38" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PHP_PREDEFINED SYMBOL">
+    <option name="PHP_INTERFACE">
       <value>
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="dee3ec" />
+      </value>
+    </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e3be00" />
       </value>
     </option>
     <option name="PHP_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="dee3ec" />
+      </value>
+    </option>
+    <option name="PHP_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="dee3ec" />
       </value>
@@ -1037,11 +1056,6 @@
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="dee3ec" />
-      </value>
-    </option>
-    <option name="PHP_VAR_VAR">
-      <value>
-        <option name="FOREGROUND" value="bcd42a" />
       </value>
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
