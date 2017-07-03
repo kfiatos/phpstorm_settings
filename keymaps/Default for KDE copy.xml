@@ -1,4 +1,10 @@
 <keymap version="1" name="Default for KDE copy" parent="Default for KDE">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl 4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorLookupUp" />
+  <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoFile">
@@ -6,4 +12,8 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="ParameterInfo" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
 </keymap>
