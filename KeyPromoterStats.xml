@@ -2,10 +2,13 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
+        <entry key="'Alt+9'" value="2" />
         <entry key="'Ctrl+Alt+M'" value="3" />
         <entry key="'Ctrl+Shift+F'" value="1" />
+        <entry key="'Ctrl+Shift+K'" value="2" />
         <entry key="'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'" value="2" />
         <entry key="'Ctrl+Z' or 'Alt+Backspace'" value="2" />
+        <entry key="'Delete'" value="1" />
       </map>
     </option>
   </component>
