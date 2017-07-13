@@ -4,6 +4,8 @@
       <map>
         <entry key="'Ctrl+Alt+M'" value="3" />
         <entry key="'Ctrl+Shift+F'" value="1" />
+        <entry key="'Ctrl+Shift+Z' or 'Alt+Shift+Backspace'" value="2" />
+        <entry key="'Ctrl+Z' or 'Alt+Backspace'" value="2" />
       </map>
     </option>
   </component>
