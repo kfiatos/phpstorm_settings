@@ -18,6 +18,7 @@
         <entry key="'Ctrl+Z' or 'Alt+Backspace'" value="2" />
         <entry key="'Delete'" value="4" />
         <entry key="'Delete' or 'Backspace'" value="2" />
+        <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="7" />
       </map>
     </option>
   </component>
