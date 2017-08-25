@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="frontCache-12231312" type="PLAIN_TEXT" />
+      <mapping pattern="frontCache-1212321" type="PLAIN_TEXT" />
       <mapping pattern="EventListener\VichImageHandling" type="PLAIN_TEXT" />
       <mapping pattern="core" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
