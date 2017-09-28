@@ -665,7 +665,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="6f6b17" />
+        <option name="BACKGROUND" value="32424a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1321,6 +1321,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="6f6b17" />
         <option name="EFFECT_COLOR" value="26a6a6" />
         <option name="ERROR_STRIPE_COLOR" value="26a6a6" />
         <option name="EFFECT_TYPE" value="1" />
