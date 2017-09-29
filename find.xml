@@ -3,6 +3,7 @@
     <option name="customScope" value="Unnamed" />
     <option name="defaultScopeName" value="Unnamed" />
     <option name="SEARCH_SCOPE" value="Unnamed" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,7 +19,6 @@
       <mask>con*.php</mask>
       <mask>co*.php</mask>
       <mask>c*.php</mask>
-      <mask>*.php</mask>
       <mask>C*.php</mask>
       <mask>Co*.php</mask>
       <mask>Con*.php</mask>
@@ -32,6 +32,8 @@
       <mask>Controle*.php</mask>
       <mask>Controler*.php</mask>
       <mask>*Controler*.php</mask>
+      <mask>**.php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
