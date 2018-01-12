@@ -3,7 +3,7 @@
     <property name="created">2017-12-18T11:30:12</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2018-01-12T14:25:09</property>
+    <property name="modified">2018-01-12T14:30:32</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -27,4 +27,14 @@
     <option name="FILESTATUS_changelistConflict" value="ff0000" />
     <option name="FILESTATUS_modifiedOutside" value="47e4" />
   </colors>
+  <attributes>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="5c6062" />
+        <option name="EFFECT_COLOR" value="bc3f3c" />
+        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
