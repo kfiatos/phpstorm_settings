@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="**.php" />
     <recentFileMasks>
       <mask>contr*.php</mask>
       <mask>cont*.php</mask>
@@ -25,15 +26,15 @@
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.vol</mask>
-      <mask>*.v</mask>
-      <mask>*.vo</mask>
-      <mask>*.volt</mask>
-      <mask>**.php</mask>
       <mask>**.v</mask>
       <mask>**.vo</mask>
       <mask>**.vol</mask>
       <mask>**.volt</mask>
       <mask>*.php</mask>
+      <mask>*.v</mask>
+      <mask>*.vo</mask>
+      <mask>*.volt</mask>
+      <mask>**.php</mask>
     </recentFileMasks>
   </component>
 </application>
