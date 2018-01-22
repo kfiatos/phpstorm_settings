@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>contr*.php</mask>
@@ -34,8 +32,8 @@
       <mask>*.php</mask>
       <mask>*.v</mask>
       <mask>*.vo</mask>
-      <mask>*.volt</mask>
       <mask>**.php</mask>
+      <mask>*.volt</mask>
     </recentFileMasks>
   </component>
 </application>
