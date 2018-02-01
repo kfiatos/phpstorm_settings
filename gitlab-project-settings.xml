@@ -1,0 +1,16 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://git.indahash.eu/" />
+    <option name="token" value="yAwE9FcoKDqxoJYysb9B" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.indahash.eu/indahash/tagme.git" />
+          <option name="name" value="tagme" />
+          <option name="namespace" value="indahash" />
+          <option name="sshUrl" value="git@git.indahash.eu:indahash/tagme.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>
