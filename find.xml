@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>contr*.php</mask>
       <mask>cont*.php</mask>
       <mask>con*.php</mask>
       <mask>co*.php</mask>
@@ -34,6 +33,7 @@
       <mask>*.vo</mask>
       <mask>*.volt</mask>
       <mask>**.php</mask>
+      <mask>*.sass</mask>
     </recentFileMasks>
   </component>
 </application>
