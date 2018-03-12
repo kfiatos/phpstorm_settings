@@ -32,8 +32,8 @@
       <mask>*.vo</mask>
       <mask>**.php</mask>
       <mask>*.sass</mask>
-      <mask>*.php</mask>
       <mask>*.volt</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
