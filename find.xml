@@ -3,37 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>contr*.php</mask>
-      <mask>cont*.php</mask>
-      <mask>con*.php</mask>
-      <mask>co*.php</mask>
-      <mask>c*.php</mask>
-      <mask>C*.php</mask>
-      <mask>Co*.php</mask>
-      <mask>Con*.php</mask>
-      <mask>Cont*.php</mask>
-      <mask>Contr*.php</mask>
-      <mask>Contro*.php</mask>
-      <mask>Controller*.php</mask>
-      <mask>Controlle*.php</mask>
-      <mask>Controll*.php</mask>
-      <mask>Control*.php</mask>
-      <mask>Controle*.php</mask>
-      <mask>Controler*.php</mask>
-      <mask>*Controler*.php</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.vol</mask>
-      <mask>**.v</mask>
-      <mask>**.vo</mask>
-      <mask>**.vol</mask>
-      <mask>**.volt</mask>
-      <mask>*.php</mask>
-      <mask>*.v</mask>
-      <mask>*.vo</mask>
-      <mask>**.php</mask>
-      <mask>*.volt</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
