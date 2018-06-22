@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="myslq" type="PLAIN_TEXT" />
+      <mapping pattern="esdump" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="installer" type="PLAIN_TEXT" />
       <mapping pattern="tagme-ssl" type="PLAIN_TEXT" />
