@@ -5,15 +5,14 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
     <phpcs_settings>
-      <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/Code/tagme/vendor/bin/phpcs" />
       <phpcs_by_interpreter interpreter_id="6f05ecbd-2344-46b9-b082-b124be76abc1" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/opt/project/vendor/bin/phpcs" />
+      <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/Code/tagme/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="docker://docker.indahash.eu/development/php-develop-docker:latest/php" id="6f05ecbd-2344-46b9-b082-b124be76abc1" name="web" debugger_id="php.debugger.XDebug">
         <configuration_options>
-          <configuration_option name="xdebug.remote_host" value="10.254.254.254" />
           <configuration_option name="xdebug.remote_enable" value="1" />
           <configuration_option name="xdebug.remote_connect_back" value="off" />
         </configuration_options>
