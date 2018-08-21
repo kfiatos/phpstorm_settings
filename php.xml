@@ -12,13 +12,6 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="docker://docker.indahash.eu/development/php-develop-docker:latest/php" id="6f05ecbd-2344-46b9-b082-b124be76abc1" name="web" debugger_id="php.debugger.XDebug">
-        <configuration_options>
-          <configuration_option name="xdebug.remote_enable" value="1" />
-          <configuration_option name="xdebug.remote_connect_back" value="off" />
-          <configuration_option name="xdebug.var_display_max_depth" value="30" />
-          <configuration_option name="xdebug.var_display_max_children" value="831" />
-          <configuration_option name="xdebug.remote_log" value="/tmp/xdebug.log" />
-        </configuration_options>
         <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="docker.indahash.eu/development/php-develop-docker:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
