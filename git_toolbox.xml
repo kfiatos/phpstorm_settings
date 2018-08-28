@@ -1,6 +1,5 @@
 <application>
   <component name="GitToolBoxAppSettings">
     <option name="behindTracker" value="false" />
-    <option name="showStatusWidget" value="false" />
   </component>
 </application>
