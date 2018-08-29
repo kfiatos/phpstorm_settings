@@ -462,4 +462,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="6f05ecbd-2344-46b9-b082-b124be76abc1" load_method="PHPUNIT_PHAR" configuration_file_path="/var/www/tagme/tests/phpunit.xml" custom_loader_path="/var/www/tagme/vendor" phpunit_phar_path="/var/www/tagme/vendor/bin/phpunit" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
 </application>
