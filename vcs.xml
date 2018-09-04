@@ -27,9 +27,10 @@
     <option name="cloneParentDir" value="$USER_HOME$/Code/" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="MIGRATED" value="true" />
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Code/patch/tagme" />
   </component>
 </application>
