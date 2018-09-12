@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Open all modified files">
+      <action id="ActivateVersionControlToolWindow" />
+      <shortuct text="control A" />
+      <action id="ViewSource" />
+      <action id="ActivateVersionControlToolWindow" />
+    </macro>
+  </component>
+</application>
