@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../modules/entities/src/UserInterface/Http/EntityPresubmissionDescriptionTranslationRemoteController.php [tagme]'" />
     <option name="defaultScopeName" value="File '.../modules/entities/src/UserInterface/Http/EntityPresubmissionDescriptionTranslationRemoteController.php [tagme]'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../modules/entities/src/UserInterface/Http/EntityPresubmissionDescriptionTranslationRemoteController.php [tagme]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
