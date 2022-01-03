@@ -8,11 +8,11 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="6f05ecbd-2344-46b9-b082-b124be76abc1" name="web" home="docker://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="docker.indahash.eu/development/php-develop-docker:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
+        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="docker.indahash.eu/development/php-develop-docker:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
       <interpreter id="bf575852-75d7-4d77-8cd2-0919b699c22c" name="PHP 7.2" home="/usr/local/Cellar/php/7.2.11/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="3085991c-9341-40b8-82fc-b690bdb502cd" name="283217566149.dkr.ecr.eu-central-1.amazonaws.com/base-image:php7.1-dev" home="docker://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="283217566149.dkr.ecr.eu-central-1.amazonaws.com/base-image:php7.1-dev" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
+        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="283217566149.dkr.ecr.eu-central-1.amazonaws.com/base-image:php7.1-dev" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
     </interpreters>
   </component>
