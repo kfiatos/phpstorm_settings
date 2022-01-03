@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*.js.volt" type="JavaScript" />
+      <mapping pattern="tagme" type="PLAIN_TEXT" />
+      <mapping pattern="tagme-ssl" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="esdump" type="PLAIN_TEXT" />
+      <mapping pattern="installer" type="PLAIN_TEXT" />
+      <mapping pattern="myslq" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="volt" type="Twig" />
+    </extensionMap>
+  </component>
+</application>

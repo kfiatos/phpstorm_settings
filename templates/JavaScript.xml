@@ -1,0 +1,11 @@
+<templateSet group="JavaScript">
+  <template name="cl" value="console.log($MODULE_VAR$);$END$" description="inserts console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="MODULE_VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="try" value="try {&#10;    $SELECTION$&#10;} catch ($VARIABLENAME$) {&#10;    $END$&#10;}" description="try catch block" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLENAME" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

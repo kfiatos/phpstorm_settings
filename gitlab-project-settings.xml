@@ -1,0 +1,40 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://git.indahash.eu/" />
+    <option name="token" value="yAwE9FcoKDqxoJYysb9B" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.indahash.eu/development/ci.git" />
+          <option name="name" value="ci" />
+          <option name="namespace" value="development" />
+          <option name="sshUrl" value="git@git.indahash.eu:development/ci.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.indahash.eu/development/php-develop-docker.git" />
+          <option name="name" value="php-develop-docker" />
+          <option name="namespace" value="development" />
+          <option name="sshUrl" value="git@git.indahash.eu:development/php-develop-docker.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.indahash.eu/indahash/printer.git" />
+          <option name="name" value="printer" />
+          <option name="namespace" value="indahash" />
+          <option name="sshUrl" value="git@git.indahash.eu:indahash/printer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.indahash.eu/indahash/tagme.git" />
+          <option name="name" value="tagme" />
+          <option name="namespace" value="indahash" />
+          <option name="sshUrl" value="git@git.indahash.eu:indahash/tagme.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.indahash.eu/kfiatos/symfony-php-7.2-template.git" />
+          <option name="name" value="symfony-php-7.2-template" />
+          <option name="namespace" value="kfiatos" />
+          <option name="sshUrl" value="git@git.indahash.eu:kfiatos/symfony-php-7.2-template.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>
