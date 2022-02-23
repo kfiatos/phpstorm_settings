@@ -12,7 +12,7 @@
       </interpreter>
       <interpreter id="bf575852-75d7-4d77-8cd2-0919b699c22c" name="PHP 7.2" home="/usr/local/Cellar/php/7.2.11/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="3085991c-9341-40b8-82fc-b690bdb502cd" name="283217566149.dkr.ecr.eu-central-1.amazonaws.com/base-image:php7.1-dev" home="docker://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="docker_users:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
+        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="docker_api:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
     </interpreters>
   </component>
