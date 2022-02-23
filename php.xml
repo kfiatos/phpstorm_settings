@@ -11,14 +11,14 @@
         <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="docker.indahash.eu/development/php-develop-docker:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
       <interpreter id="bf575852-75d7-4d77-8cd2-0919b699c22c" name="PHP 7.2" home="/usr/local/Cellar/php/7.2.11/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="3085991c-9341-40b8-82fc-b690bdb502cd" name="283217566149.dkr.ecr.eu-central-1.amazonaws.com/base-image:php7.1-dev" home="docker://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="docker_api:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
+      <interpreter id="3085991c-9341-40b8-82fc-b690bdb502cd" name="users-8.0" home="docker://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="docker_users:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="283217566149.dkr.ecr.eu-central-1.amazonaws.com/base-image:php7.1-dev">
+      <interpreter name="users-8.0">
         <phpinfo binary_type="PHP" php_cli="/usr/bin/php8" path_separator=":" version="8.0.15">
           <additional_php_ini>/etc/php8/conf.d/00_bcmath.ini, /etc/php8/conf.d/00_ctype.ini, /etc/php8/conf.d/00_curl.ini, /etc/php8/conf.d/00_dom.ini, /etc/php8/conf.d/00_iconv.ini, /etc/php8/conf.d/00_intl.ini, /etc/php8/conf.d/00_mbstring.ini, /etc/php8/conf.d/00_opcache.ini, /etc/php8/conf.d/00_openssl.ini, /etc/php8/conf.d/00_pdo.ini, /etc/php8/conf.d/00_pgsql.ini, /etc/php8/conf.d/00_session.ini, /etc/php8/conf.d/00_simplexml.ini, /etc/php8/conf.d/00_sodium.ini, /etc/php8/conf.d/00_tokenizer.ini, /etc/php8/conf.d/00_xml.ini, /etc/php8/conf.d/00_xmlwriter.ini, /etc/php8/conf.d/00_zip.ini, /etc/php8/conf.d/01_pdo_pgsql.ini, /etc/php8/conf.d/01_phar.ini, /etc/php8/conf.d/01_xsl.ini, /etc/php8/conf.d/10_igbinary.ini, /etc/php8/conf.d/20_redis.ini, /etc/php8/conf.d/50_grpc.ini, /etc/php8/conf.d/50_xdebug.ini</additional_php_ini>
           <configuration_file>/etc/php8/php.ini</configuration_file>
