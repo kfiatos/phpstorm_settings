@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="bastion.rc.volt.io" id="cb6b46e4-1c68-4eea-ad9d-105abb83d3ff" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="michal.kwiatkowski" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
