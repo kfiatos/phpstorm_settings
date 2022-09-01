@@ -5,6 +5,7 @@
       <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/Code/tagme/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
+  <component name="PhpDebugGeneral" xdebug_resolve_breakpoints="false" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="6f05ecbd-2344-46b9-b082-b124be76abc1" name="web" home="docker://DATA" debugger_id="php.debugger.XDebug">
