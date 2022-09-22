@@ -9,7 +9,6 @@
       <mapping pattern="installer" type="PLAIN_TEXT" />
       <mapping pattern="myslq" type="PLAIN_TEXT" />
       <mapping pattern="esdump" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="volt" type="Twig" />
